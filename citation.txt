@@ -1,0 +1,6 @@
+@inproceedings{REPO212,
+    author = "Cheng, Tianheng and Song, Lin and Ge, Yixiao and Liu, Wenyu and Wang, Xinggang and Shan, Ying",
+    booktitle = "Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)",
+    title = "{YOLO-World: Real-Time Open-Vocabulary Object Detection}",
+    year = "2024"
+}
